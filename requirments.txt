@@ -1,0 +1,6 @@
+panads==1.2.3
+numpy==1.19.5
+sklearn==0.0
+streamlit==0.81.1
+nootbook==6.3.0
+matplotlib==3.4.0
